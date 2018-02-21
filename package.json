@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "grunt": "^1.0.2",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-compress": "^1.4.3",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-exec": "^3.0.0",
+    "jit-grunt": "^0.10.0",
+    "load-grunt-config": "^0.19.2",
+    "ssh2": "^0.5.5"
+  },
+  "scripts": {
+    "superheroes": "start https://en.wikipedia.org/wiki/List_of_human_superheroes_in_DC_Comics"
+  }
+}

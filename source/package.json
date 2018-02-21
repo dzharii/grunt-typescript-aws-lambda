@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.0.0",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^1.6.7",
+    "@types/xml2js": "^0.4.2"
+  }
+}
